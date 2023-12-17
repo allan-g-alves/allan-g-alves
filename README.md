@@ -1,16 +1,18 @@
-### Hi there 👋
 
-<!--
-**allan-g-alves/allan-g-alves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hey! 👋
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About me
+I am a data enthusiast, studying to enter the field. 
+
+I am also interested in IoT, web development and programming in general. 
+
+## 🛠 Skills
+
+[![My Skills](https://skillicons.dev/icons?i=python,r,git,postgres,html,css&theme=dark)](https://skillicons.dev)
+
+## 🔗 Links
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/allan-gabriel-alves-30389125b/)
+
+
+
