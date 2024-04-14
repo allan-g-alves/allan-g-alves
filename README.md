@@ -3,9 +3,9 @@
 
 
 ## About me
-I am a data enthusiast, studying to enter the field. 
+I'm a programming enthusiast, addicted to learning new languages ​​and ways of programming.
 
-I am also interested in IoT, web development and programming in general. 
+Currently studying data science and web development
 
 ## 🛠 Skills
 
